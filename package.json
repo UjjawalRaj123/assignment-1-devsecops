@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-devsecops",
+  "version": "1.0.0",
+  "description": "Assignment 1 - Automated Container Build Pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
