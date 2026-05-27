@@ -3,7 +3,7 @@
 # ─────────────────────────────────────────────
 FROM node:20-alpine
 
-# Set working directory inside container
+
 WORKDIR /app
 
 # Copy dependency manifests first (layer caching)
